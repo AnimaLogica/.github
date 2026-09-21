@@ -1,4 +1,4 @@
-# AnimaLogica
+# Anima Logica
 
 ### Data, reasoning, and reliable execution for the BEAM.
 
