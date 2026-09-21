@@ -6,7 +6,7 @@ Elixir and Erlang are exceptional at concurrency, distribution, fault tolerance,
 
 **AnimaLogica is building those missing pieces.**
 
-The goal is not to turn Elixir into Python, Rust, or C++. It is to make the BEAM a first-class participant in modern data and intelligent systems while preserving the qualities that make it distinctive.
+The goal is not to turn Elixir into Python, Rust, or C++. It is to help make the BEAM a first-class participant in modern data and intelligent systems while preserving the qualities that make it distinctive.
 
 Where computation belongs on the BEAM, we implement it there. Where native performance matters, we use Rust, Zig, SuiteSparse, or other established systems behind idiomatic Elixir APIs. Where data is too large to materialize, we stream it. And where systems need to survive failure, we build around OTP rather than around it.
 
